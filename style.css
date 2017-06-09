@@ -1,0 +1,38 @@
+body {
+	background: url(sun.jpg);
+	color: white;
+}
+
+span {
+	display: block;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+#location {
+	font-size: 50px;
+	margin-top: 50px;
+}
+
+#sky {
+	font-size: 20px;
+}
+
+#icon {
+	margin-top: 100px;
+}
+
+#temp {
+	font-size: 100px;
+	margin-top: 100px;
+	margin-bottom: 160px;
+}
+
+#feelsLike,
+#wind,
+#humidity,
+#precip,
+#pressure,
+#vis {
+	margin: 10px;
+}
